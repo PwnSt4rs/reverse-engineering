@@ -187,7 +187,7 @@ A curated list of awesome reversing resources
 * [x64dbg](http://x64dbg.com/#start)
 * [gdb](https://www.gnu.org/software/gdb/)
   <details>
-    To support debugging and exploit development in gdb install [gdb-peda](https://github.com/longld/peda.git) 0r [gef](https://github.com/hugsy/gef.git)
+    To support debugging and exploit development in gdb install <a href="https://github.com/longld/peda.git">gdb-peda</a> 0r <a href="https://github.com/hugsy/gef.git">gef </a>
   </details>
 * [vdb](https://github.com/vivisect/vivisect)
 * [lldb](http://lldb.llvm.org/)
